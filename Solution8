@@ -1,0 +1,13 @@
+In this task, I have 3 urns and I will take one ball from each of them. I want to find probability that taking 2 Red 1 Black ball.
+
+|            |    |           |     |           |
+|  4 Red     |    |  5 Red    |     |  4 Red    |
+|  3 Black   |    |  4 Black  |     |  4 Black  |
+|            |    |           |     |           |
+|____________|    |___________|     |___________|
+
+E ={(R, R, B) (R, B, R) (B, R, R)}
+
+P(E) = (4/7 * 5/9 * 4/8) + (4/7 * 4/9 * 4/8) + (3/7 * 5/9 * 4/8) 
+     = 204/504
+     = 17/42
