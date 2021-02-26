@@ -1,0 +1,5 @@
+In this task, I need to find probabilty that the sum of single tossed 2-dices' equals to 6 and I want to two of them different.
+
+E = {(1,5) (2,4) (4,2) (5,1)}
+
+P(E) = 4 * (1/6 * 1/6) = 4/36 = 1/9
