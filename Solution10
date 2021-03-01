@@ -1,0 +1,5 @@
+In a deck there are 4 different suit and each suit have 13 cards. So:
+
+P(E) = (C(4,1) * C(13, 2)) / C(52,2) = 12/51 
+
+I used combination because order does not matter.
